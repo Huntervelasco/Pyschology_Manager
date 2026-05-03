@@ -5,7 +5,7 @@ A psychology appointment manager that allows you to track your sessions
 A simple CLI (terminal) appointment manager made with Python for psychologists.  
 It allows you to register patients, schedule sessions, manage appointments, and calculate total income.
 
-## ✨ Features
+## Features
 - View registered patients
 - Add new patients
 - Edit patient information
