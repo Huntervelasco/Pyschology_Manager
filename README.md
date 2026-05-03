@@ -18,6 +18,10 @@ It allows you to register patients, schedule sessions, manage appointments, and 
 - Calculate total income from completed sessions
 - Automatic saving/loading using JSON database
 
+## Example
+<img width="459" height="225" alt="image" src="https://github.com/user-attachments/assets/1d255661-f2ac-447e-ab44-072ef9aa8be6" />
+
+
 ##  Requirements
 - Python 3.x
 
